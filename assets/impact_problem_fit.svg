@@ -1,31 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="36" viewBox="0 0 500 36">
   <defs>
-    <linearGradient id="grad_impact_problem_fit_20" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="grad_impact_problem_fit" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#4f46e5" stop-opacity="1"/>
     </linearGradient>
   </defs>
-
-  <rect x="0" y="0" width="500" height="36" rx="10"
-        fill="#1e1b4b" stroke="#3b3370"/>
-
-  <rect x="3" y="3" width="99" height="30" rx="7"
-        fill="url(#grad_impact_problem_fit_20)"/>
-
-  <text x="14" y="23"
-        font-family="monospace"
-        font-size="14"
-        font-weight="600"
-        fill="#ffffff">
-    Impact &amp; Problem Fit
-  </text>
-
-  <text x="475" y="23"
-        font-family="monospace"
-        font-size="14"
-        font-weight="700"
-        fill="#ffffff"
-        text-anchor="end">
-    20%
-  </text>
+  <rect x="0" y="0" width="500" height="36" rx="10" ry="10" fill="#1e1b4b" stroke="#3b3370" stroke-width="1"/>
+  <rect x="3" y="3" width="98.80" height="30" rx="7" ry="7" fill="url(#grad_impact_problem_fit)"/>
+  <text x="14" y="23" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#ffffff">Impact &amp; Problem Fit</text>
+  <text x="486" y="23" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">20%</text>
 </svg>
