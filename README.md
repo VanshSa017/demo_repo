@@ -30,7 +30,7 @@ It is a **two-stage battle of brains**, taking participants from an idea on pape
 
 <div align="center">
 
-## Round 1 — Ideathon
+### Round 1 — Ideathon
 
 ![Online](https://img.shields.io/badge/Mode-Online-22c55e?style=flat-square&labelColor=1e1b4b)
 ![Free](https://img.shields.io/badge/Entry-Free%20for%20All-22c55e?style=flat-square&labelColor=1e1b4b)
@@ -47,7 +47,7 @@ The strongest ideas get shortlisted to qualify for the main stage at VIT Bhopal.
 
 <div align="center">
 
-## Round 2 — Hackathon
+### Round 2 — Hackathon
 
 ![Offline](https://img.shields.io/badge/Mode-Offline-f59e0b?style=flat-square&labelColor=1e1b4b)
 ![Duration](https://img.shields.io/badge/Duration-36%20Hours-f59e0b?style=flat-square&labelColor=1e1b4b)
@@ -113,30 +113,30 @@ timeline
 <div align="center">
 
 ```
-                ╔══════════════════════════════════════════════════════════════════════╗
-                ║                     CHOOSE YOUR BATTLEFIELD                          ║
-                ╚══════════════════════════════════════════════════════════════════════╝
+                        ╔══════════════════════════════════════════════════════════════════════╗
+                        ║                     CHOOSE YOUR BATTLEFIELD                          ║
+                        ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Hardware Project
+## Hardware Project
 ![Track](https://img.shields.io/badge/Track-Embedded%20%7C%20IoT%20%7C%20Robotics-7c3aed?style=flat-square&labelColor=1e1b4b)
 
 Build a **physical prototype** that integrates hardware and software.
 
-- 🔌 IoT devices & sensor networks
-- 🦾 Robotics & embedded control
-- ⌚ Wearable tech & smart automation
+-  IoT devices & sensor networks
+-  Robotics & embedded control
+-  Wearable tech & smart automation
 
 > A working physical unit is required at Demo Day.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Agent
+## AI Agent
 ![Track](https://img.shields.io/badge/Track-ML%20%7C%20LLMs%20%7C%20NLP-6d28d9?style=flat-square&labelColor=1e1b4b)
 
 Deploy an **intelligent agent** that reasons, plans, or decides.
@@ -152,7 +152,7 @@ Deploy an **intelligent agent** that reasons, plans, or decides.
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 Campus Problem Solver
+## Campus Problem Solver
 ![Track](https://img.shields.io/badge/Track-EdTech%20%7C%20Campus%20Infra-4f46e5?style=flat-square&labelColor=1e1b4b)
 
 Fix a **real pain point at VIT Bhopal**.
@@ -166,7 +166,7 @@ Fix a **real pain point at VIT Bhopal**.
 </td>
 <td width="50%" valign="top">
 
-### 💡 Open Innovation
+## Open Innovation
 ![Track](https://img.shields.io/badge/Track-No%20Restrictions-8b5cf6?style=flat-square&labelColor=1e1b4b)
 
 Absolutely **no constraints** — any domain qualifies.
@@ -332,11 +332,11 @@ Each team must have a designated Team Lead.
 > *Participants outside VIT Bhopal manage their own travel & stay.*
 
 ### 📦 Submission Requirements
-- ✅ Source code on **GitHub before Code Freeze**
-- ✅ Project description — **max 300 words**
-- ✅ Demo video — **max 3 minutes** (or live demo at Demo Day)
-- ✅ Document all external APIs, libraries & datasets used
-- ✅ GitHub repo must include tags: `GSOC-Innovators-Club` · `Summer-of-CodeFest-26`
+-  Source code on **GitHub before Code Freeze**
+-  Project description — **max 300 words**
+-  Demo video — **max 3 minutes** (or live demo at Demo Day)
+-  Document all external APIs, libraries & datasets used
+-  GitHub repo must include tags: `GSOC-Innovators-Club` · `Summer-of-CodeFest-26`
 
 ### 🚫 Code of Conduct
 - All work must be **original and built during the event window**
@@ -385,7 +385,7 @@ Step 5  →  Pay fee · Show up · BUILD SOMETHING LEGENDARY
 
 <div align="center">
 
-*Made with ❤️ by the GSoC Innovators' Club — VIT Bhopal University*
+*Made by the GSoC Innovators' Club — VIT Bhopal University*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Contribute%20The%20Change.&fontSize=26&fontColor=a78bfa&fontAlignY=65" />
 
