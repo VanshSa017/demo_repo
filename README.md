@@ -18,66 +18,81 @@
 
 ## ✦ What is Summer of Code Fest?
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=gsoc-innovators-vit&repo=summer-of-code-fest&theme=midnight-purple&hide_border=true" />
-
 **Summer of Code Fest** is the **flagship innovation hackathon** by the GSoC Innovators' Club at VIT Bhopal University — a 36-hour all-nighter where students across every discipline come together to build, break, and ship.
 
-It is a **two-stage battle of brains:**
+It is a **two-stage battle of brains**, taking participants from an idea on paper to a working product on stage.
+
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🧠 ROUND 1
-## IDEATHON
+<div align="center">
 
-🌐 **Online**
+### 🧠 Round 1 — Ideathon
 
-🆓 **Free for All**
+![Online](https://img.shields.io/badge/Mode-Online-22c55e?style=flat-square&labelColor=1e1b4b)
+![Free](https://img.shields.io/badge/Entry-Free%20for%20All-22c55e?style=flat-square&labelColor=1e1b4b)
 
-💡 Pitch your solution
+Pitch your solution idea through the Hack India portal.
+The strongest ideas get shortlisted to qualify for the main stage at VIT Bhopal.
 
-🏆 Qualify for the Main Stage
+**Outcome →** Shortlist for Round 2
 
-</td>
-
-<td align="center" width="50%">
-
-### ⚡ ROUND 2
-## HACKATHON
-
-📍 **VIT Bhopal University**
-
-⏱️ **36 Hours**
-
-💻 Build an End-to-End MVP
-
-🎤 Present • Demo • Win
+</div>
 
 </td>
+<td width="50%" valign="top">
 
+<div align="center">
+
+### ⚡ Round 2 — Hackathon
+
+![Offline](https://img.shields.io/badge/Mode-Offline-f59e0b?style=flat-square&labelColor=1e1b4b)
+![Duration](https://img.shields.io/badge/Duration-36%20Hours-f59e0b?style=flat-square&labelColor=1e1b4b)
+
+Build a complete, working MVP from scratch at VIT Bhopal University.
+Present it live to judges and compete for the top spots.
+
+**Outcome →** Winners & Prizes
+
+</div>
+
+</td>
 </tr>
 </table>
 
 </div>
+
+<br/>
 
 ---
 
 ## ⏳ Event Timeline
 
 ```mermaid
-timeline
-    title Summer of Code Fest 2026
-    June 10 – July 5  : 🟢 Applications Open
-                       : Register on Hack India Portal
-    July 6 – July 11  : 💡 Ideathon Window
-                       : Submit your solution ideas
-    July 13            : 📢 Round 1 Results
-                       : Shortlisted teams notified
-    July 23 – 24       : 🔥 36-Hour Hackathon
-                       : The main event — offline at VIT Bhopal
+graph LR
+    A["🟢 Jun 10 – Jul 5\nApplications Open"] --> B["💡 Jul 6 – Jul 11\nIdeathon Window"]
+    B --> C["📢 Jul 13\nRound 1 Results"]
+    C --> D["🔥 Jul 23 – 24\n36-Hour Hackathon"]
+    D --> E["🎉 Jul 24\nClosing Ceremony"]
+
+    classDef stage fill:#1e1b4b,stroke:#a78bfa,stroke-width:2px,color:#ffffff,font-weight:bold,rx:10,ry:10;
+    class A,B,C,D,E stage;
 ```
+
+<div align="center">
+
+| Phase | Window | What Happens |
+|:---:|:---:|:---|
+| **Applications Open** | Jun 10 – Jul 5 | Register on the Hack India Portal |
+| **Ideathon Window** | Jul 6 – Jul 11 | Submit your solution ideas online |
+| **Round 1 Results** | Jul 13 | Shortlisted teams notified |
+| **36-Hour Hackathon** | Jul 23 – 24 | The main event — offline at VIT Bhopal |
+| **Closing Ceremony** | Jul 24 | Winners announced, prizes distributed |
+
+</div>
 
 <br/>
 
@@ -87,18 +102,18 @@ timeline
 
 <div align="center">
 
-| 🕐 Time | 🎯 Phase | 📋 Details |
-|:---:|:---:|:---|
-| **Day 1 · 09:00** | 🎤 Opening Ceremony | Welcome, rules briefing, theme reveal & mentor intros |
-| **Day 1 · 10:00** | 💻 Hacking Begins | Teams set up, finalise idea, and start building |
-| **Day 1 · 14:00** | 🧩 Mini-Challenge #1 | **DSA Problem Set** — bonus points up for grabs |
-| **Day 1 · 20:00** | 👀 Midpoint Check-in | Organisers do an informal walkthrough of all teams |
-| **Day 1 · 22:00** | 🐛 Mini-Challenge #2 | **Bug Bounty** — hunt and document planted bugs |
-| **Day 2 · 06:00** | ⚡ Mini-Challenge #3 | **Tech Quiz** — rapid-fire trivia round |
-| **Day 2 · 12:00** | 🔒 Code Freeze | Final submissions pushed to GitHub |
-| **Day 2 · 13:00** | 🎯 Demo Day | 5-min pitch + Q&A with judges |
-| **Day 3 · 09:00** | 🏆 Evaluations Begin | Projects scored; winners determined |
-| **Day 3 · 16:00** | 🎉 Closing Ceremony | Prizes, networking, and closing remarks |
+| Day | Time | Phase | Details |
+|:---:|:---:|:---|:---|
+| Day 1 | 09:00 | Opening Ceremony | Welcome, rules briefing, theme reveal & mentor intros |
+| Day 1 | 10:00 | Hacking Begins | Teams set up, finalise idea, and start building |
+| Day 1 | 14:00 | Mini-Challenge 1 — DSA Problem Set | Bonus points up for grabs |
+| Day 1 | 20:00 | Midpoint Check-in | Organisers do an informal walkthrough of all teams |
+| Day 1 | 22:00 | Mini-Challenge 2 — Bug Bounty | Hunt and document planted bugs |
+| Day 2 | 06:00 | Mini-Challenge 3 — Tech Quiz | Rapid-fire trivia round |
+| Day 2 | 12:00 | Code Freeze | Final submissions pushed to GitHub |
+| Day 2 | 13:00 | Demo Day | 5-minute pitch + Q&A with judges |
+| Day 3 | 09:00 | Evaluations Begin | Projects scored; winners determined |
+| Day 3 | 16:00 | Closing Ceremony | Prizes, networking, and closing remarks |
 
 </div>
 
@@ -116,62 +131,64 @@ timeline
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Hardware Project
-> *Embedded Systems · IoT · Robotics · Physical Computing*
+![Track](https://img.shields.io/badge/Track-Embedded%20%7C%20IoT%20%7C%20Robotics-7c3aed?style=flat-square&labelColor=1e1b4b)
 
-Build a **physical prototype** that integrates hardware and software. Think:
+Build a **physical prototype** that integrates hardware and software.
+
 - 🔌 IoT devices & sensor networks
 - 🦾 Robotics & embedded control
 - ⌚ Wearable tech & smart automation
 
-**A working physical unit is required at Demo Day.**
+> A working physical unit is required at Demo Day.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Agent
-> *Machine Learning · LLMs · Autonomous Systems · NLP*
+![Track](https://img.shields.io/badge/Track-ML%20%7C%20LLMs%20%7C%20NLP-6d28d9?style=flat-square&labelColor=1e1b4b)
 
-Deploy an **intelligent agent** that reasons, plans, or decides. Think:
+Deploy an **intelligent agent** that reasons, plans, or decides.
+
 - 🧠 LLM-powered productivity tools
 - 📚 Education & accessibility agents
 - 🔬 Research & data assistants
 
-**Autonomous reasoning must be demonstrable.**
+> Autonomous reasoning must be demonstrable.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏫 Campus Problem Solver
-> *EdTech · Campus Infra · Student Life · Admin Automation*
+![Track](https://img.shields.io/badge/Track-EdTech%20%7C%20Campus%20Infra-4f46e5?style=flat-square&labelColor=1e1b4b)
 
-Fix a **real pain point at VIT Bhopal**. Think:
+Fix a **real pain point at VIT Bhopal**.
+
 - 📅 Academic scheduling tools
 - 🍽️ Canteen queue busters
 - 🏠 Hostel & resource management
 
-**The more measurable the impact, the better.**
+> The more measurable the impact, the better.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💡 Open Innovation
-> *No Restrictions · Any Domain · Cross-disciplinary*
+![Track](https://img.shields.io/badge/Track-No%20Restrictions-8b5cf6?style=flat-square&labelColor=1e1b4b)
 
-Absolutely **no constraints**. Think:
+Absolutely **no constraints** — any domain qualifies.
+
 - 💸 Fintech & Healthtech
 - 🌱 Sustainability solutions
 - 🛠️ Developer tools & games
 
-**If it solves a real problem beautifully — it qualifies.**
+> If it solves a real problem beautifully — it qualifies.
 
 </td>
 </tr>
@@ -179,13 +196,18 @@ Absolutely **no constraints**. Think:
 <td colspan="2" align="center">
 
 ### 😂 Make a Solution from a Meme
-> *No Restrictions · Any Domain · Guaranteed Chaos*
+![Track](https://img.shields.io/badge/Track-Guaranteed%20Chaos-a78bfa?style=flat-square&labelColor=1e1b4b)
 
-Connect the spirit of a **meme** to an actual working solution. No domain constraints — no seriousness required. If it makes people giggle **and** actually works, it's through.
+Connect the spirit of a **meme** to an actual working solution.
+No domain constraints, no seriousness required.
+
+> If it makes people giggle **and** actually works, it's through.
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -197,7 +219,7 @@ Connect the spirit of a **meme** to an actual working solution. No domain constr
 
 <div align="center">
 
-| ⚡ Challenge | 📖 Description | 🏅 Bonus |
+| Challenge | Description | Bonus |
 |:---:|:---|:---:|
 | 🧩 **DSA Problem Set** | 1–3 algorithmic problems of varying difficulty. Fastest correct submission wins. | **+10 pts** |
 | 🐛 **Bug Bounty** | Hunt bugs in curated code snippets. Partial credit for partial fixes. | **+5 pts** |
@@ -224,13 +246,15 @@ Connect the spirit of a **meme** to an actual working solution. No domain constr
 
 <div align="center">
 
-```
-  INNOVATION & CREATIVITY      ██████████████████████████   25%
-  TECHNICAL IMPLEMENTATION     ██████████████████████████   25%
-  IMPACT & PROBLEM FIT         ████████████████████         20%
-  PRESENTATION & PITCH         ███████████████              15%
-  MINI-CHALLENGE BONUS         ███████████████              15%
-```
+![Innovation & Creativity](https://progress-bar.dev/25/?title=Innovation%20%26%20Creativity&width=500&color=7c3aed)
+
+![Technical Implementation](https://progress-bar.dev/25/?title=Technical%20Implementation&width=500&color=6d28d9)
+
+![Impact & Problem Fit](https://progress-bar.dev/20/?title=Impact%20%26%20Problem%20Fit&width=500&color=4f46e5)
+
+![Presentation & Pitch](https://progress-bar.dev/15/?title=Presentation%20%26%20Pitch&width=500&color=8b5cf6)
+
+![Mini-Challenge Bonus](https://progress-bar.dev/15/?title=Mini-Challenge%20Bonus&width=500&color=a78bfa)
 
 *Judged by faculty mentors, industry guests & senior club alumni*
 
@@ -254,20 +278,43 @@ Connect the spirit of a **meme** to an actual working solution. No domain constr
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   🥇  1st Place   →  Trophy + Cash Prize + Certificates + Merch     │
-│   🥈  2nd Place   →  Certificate of Excellence + Merchandise        │
-│   🥉  3rd Place   →  Certificate of Merit + Merchandise             │
-│                                                                      │
-│   🏅  Track Winners  →  Individual prizes per theme                 │
-│   ⚡  Challenge Champions  →  Spot goodies + Social shoutout        │
-│   🎖️  Leaderboard Topper  →  Special prize at closing ceremony      │
-│   🎉  All Participants  →  Goodies as per eligibility               │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🥇 1st Place
+![Trophy](https://img.shields.io/badge/Trophy-Gold-FFD700?style=for-the-badge&labelColor=1e1b4b)
+
+Cash Prize + Certificates + Exclusive Merch
+
+</td>
+<td align="center" width="33%">
+
+### 🥈 2nd Place
+![Certificate](https://img.shields.io/badge/Certificate-Excellence-C0C0C0?style=for-the-badge&labelColor=1e1b4b)
+
+Certificate of Excellence + Merchandise
+
+</td>
+<td align="center" width="33%">
+
+### 🥉 3rd Place
+![Certificate](https://img.shields.io/badge/Certificate-Merit-CD7F32?style=for-the-badge&labelColor=1e1b4b)
+
+Certificate of Merit + Merchandise
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| 🎖️ Special Recognition | What You Get |
+|:---|:---|
+| 🏅 **Track Winners** | Individual prizes per theme |
+| ⚡ **Challenge Champions** | Spot goodies + social shoutout |
+| 🎖️ **Leaderboard Topper** | Special prize at closing ceremony |
+| 🎉 **All Participants** | Goodies as per eligibility |
 
 </div>
 
