@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="36" viewBox="0 0 500 36">
+  <defs>
+    <linearGradient id="grad_presentation_pitch" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="500" height="36" rx="10" ry="10" fill="#1e1b4b" stroke="#3b3370" stroke-width="1"/>
+  <rect x="3" y="3" width="74.10" height="30" rx="7" ry="7" fill="url(#grad_presentation_pitch)"/>
+  <text x="14" y="23" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#ffffff">Presentation & Pitch</text>
+  <text x="486" y="23" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">15%</text>
+</svg>
