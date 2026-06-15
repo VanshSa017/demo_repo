@@ -72,29 +72,29 @@ Present it live to judges and compete for the top spots.
 ## ⏳ Event Timeline
 
 ```mermaid
-graph LR
-    A["🟢 Jun 10 – Jul 5\nApplications Open"] --> B["💡 Jul 6 – Jul 11\nIdeathon Window"]
-    B --> C["📢 Jul 13\nRound 1 Results"]
-    C --> D["🔥 Jul 23 – 24\n36-Hour Hackathon"]
-    D --> E["🎉 Jul 24\nClosing Ceremony"]
-
-    classDef stage fill:#1e1b4b,stroke:#a78bfa,stroke-width:2px,color:#ffffff,font-weight:bold,rx:10,ry:10;
-    class A,B,C,D,E stage;
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "primaryColor": "#302b63",
+    "primaryTextColor": "#ffffff",
+    "primaryBorderColor": "#a78bfa",
+    "lineColor": "#8b5cf6",
+    "secondaryColor": "#6d28d9",
+    "tertiaryColor": "#1e1b4b",
+    "fontFamily": "Fira Code, monospace"
+  }
+}}%%
+timeline
+    title 🚀 Summer of Code Fest '26 — Road to the Hackathon
+    section Applications
+        Jun 10 – Jul 5 : 🟢 Applications Open : Register on Hack India Portal
+    section Ideathon
+        Jul 6 – Jul 11 : 💡 Ideathon Window : Submit your solution ideas
+        Jul 13 : 📢 Round 1 Results : Shortlisted teams notified
+    section The Main Event
+        Jul 23 – 24 : 🔥 36-Hour Hackathon : Build, pitch & present at VIT Bhopal
+        Jul 24 : 🎉 Closing Ceremony : Winners announced & prizes distributed
 ```
-
-<div align="center">
-
-| Phase | Window | What Happens |
-|:---:|:---:|:---|
-| **Applications Open** | Jun 10 – Jul 5 | Register on the Hack India Portal |
-| **Ideathon Window** | Jul 6 – Jul 11 | Submit your solution ideas online |
-| **Round 1 Results** | Jul 13 | Shortlisted teams notified |
-| **36-Hour Hackathon** | Jul 23 – 24 | The main event — offline at VIT Bhopal |
-| **Closing Ceremony** | Jul 24 | Winners announced, prizes distributed |
-
-</div>
-
-<br/>
 
 ---
 
