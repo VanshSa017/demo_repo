@@ -249,13 +249,13 @@ No domain constraints, no seriousness required.
 
 <br/>
 
-| Criterion | Weight | What Judges Look For |
-|---|:---:|---|
-|  Innovation & Creativity | **25%** | Novelty of idea; originality of approach; creative use of technology |
-|  Technical Implementation | **25%** | Code quality, architecture, completeness, and working demo |
-|  Impact & Problem Fit | **20%** | Real-world applicability; how well it solves the stated problem |
-|  Presentation & Pitch | **15%** | Clarity of explanation; demo quality; ability to handle Q&A |
-|  Mini-Challenge Bonus | **15%** | Aggregate bonus points earned across all mid-event challenges |
+            | Criterion | Weight | What Judges Look For |
+            |---|:---:|---|
+            |  Innovation & Creativity | **25%** | Novelty of idea; originality of approach; creative use of technology |
+            |  Technical Implementation | **25%** | Code quality, architecture, completeness, and working demo |
+            |  Impact & Problem Fit | **20%** | Real-world applicability; how well it solves the stated problem |
+            |  Presentation & Pitch | **15%** | Clarity of explanation; demo quality; ability to handle Q&A |
+            |  Mini-Challenge Bonus | **15%** | Aggregate bonus points earned across all mid-event challenges |
 
 <br/>
 
