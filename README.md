@@ -2,19 +2,33 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Summer%20of%20Code%20Fest%20'26&fontSize=52&fontColor=ffffff&fontAlignY=52&desc=GSoC%20Innovators'%20Club%20%E2%80%A2%20VIT%20Bhopal%20University&descAlignY=73&descSize=18&animation=twinkling" />
 
-<br/>
+<div align="center">
 
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=36+Hours.+Real+Problems.+Real+Solutions.;Build+%E2%86%92+Compete+%E2%86%92+Innovate;23+%26+24+July+%7C+VIT+Bhopal+University;Contribute+The+Change." alt="Typing SVG" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=🚀+Summer+of+Code+Fest+2026;⚡+36+Hours+of+Innovation;💡+Build+.+Compete+.+Impact;🏆+India's+Innovation+Playground;🌍+Contribute+The+Change." />
 
-![Duration](https://img.shields.io/badge/⏱%20Duration-36%20Hours-7c3aed?style=for-the-badge&labelColor=1e1b4b)
-![Tracks](https://img.shields.io/badge/🎯%20Tracks-5%20Themes-6d28d9?style=for-the-badge&labelColor=1e1b4b)
-![Date](https://img.shields.io/badge/📅%20Date-23%20&%2024%20July-4f46e5?style=for-the-badge&labelColor=1e1b4b)
-![Register](https://img.shields.io/badge/🚀%20Register-Hack%20India-8b5cf6?style=for-the-badge&labelColor=1e1b4b)
+<br>
+
+<img src="https://img.shields.io/badge/⏱️_36_Hours-1E1B4B?style=for-the-badge&logoColor=white&color=7C3AED"/>
+<img src="https://img.shields.io/badge/🎯_5_Themes-1E1B4B?style=for-the-badge&logoColor=white&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/📅_23–24_July-1E1B4B?style=for-the-badge&logoColor=white&color=6366F1"/>
+<img src="https://img.shields.io/badge/🏆_Prizes_+_Merch-1E1B4B?style=for-the-badge&logoColor=white&color=A855F7"/>
+<img src="https://img.shields.io/badge/🚀_Round_1_Free-1E1B4B?style=for-the-badge&logoColor=white&color=C084FC"/>
+
+<br><br>
+
+<a href="https://hackindia.xyz">
+<img src="https://img.shields.io/badge/Register_Now-9333EA?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Rulebook-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
-
-<br/>
-
 ---
 
 ## ✦ What is Summer of Code Fest?
