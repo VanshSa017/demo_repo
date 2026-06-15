@@ -24,17 +24,27 @@
 
 It is a **two-stage battle of brains:**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🧠  ROUND 1 — IDEATHON  (Online · Free for All)               │
-│      Pitch your solution. Qualify for the main stage.           │
-├─────────────────────────────────────────────────────────────────┤
-│  ⚡  ROUND 2 — HACKATHON  (Offline · 36 Hrs · VIT Bhopal)      │
-│      Build an end-to-end MVP. Present. Win.                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+</td>
 
-<br/>
+<td align="center" width="50%">
+
+### ⚡ ROUND 2
+## HACKATHON
+
+📍 **VIT Bhopal University**
+
+⏱️ **36 Hours**
+
+💻 Build an End-to-End MVP
+
+🎤 Present • Demo • Win
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
