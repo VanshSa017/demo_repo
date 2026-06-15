@@ -4,29 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=🚀+Summer+of+Code+Fest+2026;⚡+36+Hours+of+Innovation;💡+Build+.+Compete+.+Impact;🏆+India's+Innovation+Playground;🌍+Contribute+The+Change." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=80&section=header&text=⏱️%2036%20Hours&fontSize=28&fontColor=ffffff"/>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=80&section=header&text=🎯%205%20Themes&fontSize=28&fontColor=ffffff"/>
 
-<img src="https://img.shields.io/badge/⏱️_36_Hours-1E1B4B?style=for-the-badge&logoColor=white&color=7C3AED"/>
-<img src="https://img.shields.io/badge/🎯_5_Themes-1E1B4B?style=for-the-badge&logoColor=white&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/📅_23–24_July-1E1B4B?style=for-the-badge&logoColor=white&color=6366F1"/>
-<img src="https://img.shields.io/badge/🏆_Prizes_+_Merch-1E1B4B?style=for-the-badge&logoColor=white&color=A855F7"/>
-<img src="https://img.shields.io/badge/🚀_Round_1_Free-1E1B4B?style=for-the-badge&logoColor=white&color=C084FC"/>
-
-<br><br>
-
-<a href="https://hackindia.xyz">
-<img src="https://img.shields.io/badge/Register_Now-9333EA?style=for-the-badge&logo=rocket&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Rulebook-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=80&section=header&text=📅%2023-24%20July&fontSize=28&fontColor=ffffff"/>
 
 </div>
 ---
