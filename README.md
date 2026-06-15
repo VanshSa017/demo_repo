@@ -77,14 +77,13 @@ timeline
                        : Register on Hack India Portal
     July 6 – July 11  :  Ideathon Window
                        : Submit your solution ideas
-    July 13            :  Round 1 Results Declarat
+    July 13            :  Round 1 Results 
                        : Shortlisted teams notified
     July 23 – 24       :  36-Hour Hackathon
                        : The main event — offline at VIT Bhopal
 ```
 
 <br/>
----
 
 ## 🗓️ 36-Hour Schedule — Round 2
 
@@ -114,9 +113,9 @@ timeline
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                     CHOOSE YOUR BATTLEFIELD                          ║
-╚══════════════════════════════════════════════════════════════════════╝
+                ╔══════════════════════════════════════════════════════════════════════╗
+                ║                     CHOOSE YOUR BATTLEFIELD                          ║
+                ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <table>
