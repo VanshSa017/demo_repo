@@ -72,7 +72,7 @@ Present it live to judges and compete for the top spots.
 
 ```mermaid
 timeline
-    title Summer of Code Fest 2026
+    title         Summer of Code Fest 2026
     June 10 – July 5  :  Applications Open
                        : Register on Hack India Portal
     July 6 – July 11  :  Ideathon Window
