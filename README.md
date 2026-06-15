@@ -23,6 +23,22 @@
 **Summer of Code Fest** is the **flagship innovation hackathon** by the GSoC Innovators' Club at VIT Bhopal University — a 36-hour all-nighter where students across every discipline come together to build, break, and ship.
 
 It is a **two-stage battle of brains:**
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 ROUND 1
+## IDEATHON
+
+🌐 **Online**
+
+🆓 **Free for All**
+
+💡 Pitch your solution
+
+🏆 Qualify for the Main Stage
 
 </td>
 
