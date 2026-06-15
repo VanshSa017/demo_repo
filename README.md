@@ -73,13 +73,13 @@ Present it live to judges and compete for the top spots.
 ```mermaid
 timeline
     title Summer of Code Fest 2026
-    June 10 – July 5  : 🟢 Applications Open
+    June 10 – July 5  :  Applications Open
                        : Register on Hack India Portal
-    July 6 – July 11  : 💡 Ideathon Window
+    July 6 – July 11  :  Ideathon Window
                        : Submit your solution ideas
-    July 13            : 📢 Round 1 Results
+    July 13            :  Round 1 Results Declarat
                        : Shortlisted teams notified
-    July 23 – 24       : 🔥 36-Hour Hackathon
+    July 23 – 24       :  36-Hour Hackathon
                        : The main event — offline at VIT Bhopal
 ```
 
@@ -142,9 +142,9 @@ Build a **physical prototype** that integrates hardware and software.
 
 Deploy an **intelligent agent** that reasons, plans, or decides.
 
-- 🧠 LLM-powered productivity tools
-- 📚 Education & accessibility agents
-- 🔬 Research & data assistants
+-  LLM-powered productivity tools
+-  Education & accessibility agents
+-  Research & data assistants
 
 > Autonomous reasoning must be demonstrable.
 
@@ -158,9 +158,9 @@ Deploy an **intelligent agent** that reasons, plans, or decides.
 
 Fix a **real pain point at VIT Bhopal**.
 
-- 📅 Academic scheduling tools
-- 🍽️ Canteen queue busters
-- 🏠 Hostel & resource management
+-  Academic scheduling tools
+-  Canteen queue busters
+-  Hostel & resource management
 
 > The more measurable the impact, the better.
 
@@ -172,9 +172,9 @@ Fix a **real pain point at VIT Bhopal**.
 
 Absolutely **no constraints** — any domain qualifies.
 
-- 💸 Fintech & Healthtech
-- 🌱 Sustainability solutions
-- 🛠️ Developer tools & games
+-  Fintech & Healthtech
+-  Sustainability solutions
+-  Developer tools & games
 
 > If it solves a real problem beautifully — it qualifies.
 
@@ -209,21 +209,21 @@ No domain constraints, no seriousness required.
 
 | Challenge | Description | Bonus |
 |:---:|:---|:---:|
-| 🧩 **DSA Problem Set** | 1–3 algorithmic problems of varying difficulty. Fastest correct submission wins. | **+10 pts** |
-| 🐛 **Bug Bounty** | Hunt bugs in curated code snippets. Partial credit for partial fixes. | **+5 pts** |
-| 🧠 **Tech Quiz** | Rapid-fire CS trivia — fundamentals, GSoC culture, VIT knowledge. | **+5 pts** |
-| 🎨 **Design Blitz** | A UI mockup or system design diagram in 45 minutes flat. | **+10 pts** |
-| 🌐 **Open-Source Trivia** | Famous OSS projects, contributors, and GitHub culture. | **+5 pts** |
+|  **DSA Problem Set** | 1–3 algorithmic problems of varying difficulty. Fastest correct submission wins. | **+10 pts** |
+|  **Bug Bounty** | Hunt bugs in curated code snippets. Partial credit for partial fixes. | **+5 pts** |
+|  **Tech Quiz** | Rapid-fire CS trivia — fundamentals, GSoC culture, VIT knowledge. | **+5 pts** |
+|  **Design Blitz** | A UI mockup or system design diagram in 45 minutes flat. | **+10 pts** |
+|  **Open-Source Trivia** | Famous OSS projects, contributors, and GitHub culture. | **+5 pts** |
 
 </div>
 
 ### 🎁 Challenge Rewards Include:
 ```
-👕 GSoC Innovators' Club Branded Merch (T-shirts · Stickers · Hoodies)
-🖥️ Tech Accessories (USB Hubs · Cable Kits · Notebook Sets)
-🍔 Snack Vouchers & Café Credits Redeemable On Campus
-📜 Certificate of Excellence for Challenge Winners
-🎟️ Wildcard Entry to Club Workshops & Masterclasses
+ GSoC Innovators' Club Branded Merch (T-shirts · Stickers · Hoodies)
+ Tech Accessories (USB Hubs · Cable Kits · Notebook Sets)
+ Snack Vouchers & Café Credits Redeemable On Campus
+ Certificate of Excellence for Challenge Winners
+ Wildcard Entry to Club Workshops & Masterclasses
 ```
 
 <br/>
@@ -252,11 +252,11 @@ No domain constraints, no seriousness required.
 
 | Criterion | Weight | What Judges Look For |
 |---|:---:|---|
-| 🌟 Innovation & Creativity | **25%** | Novelty of idea; originality of approach; creative use of technology |
-| ⚙️ Technical Implementation | **25%** | Code quality, architecture, completeness, and working demo |
-| 🎯 Impact & Problem Fit | **20%** | Real-world applicability; how well it solves the stated problem |
-| 🎤 Presentation & Pitch | **15%** | Clarity of explanation; demo quality; ability to handle Q&A |
-| ⚡ Mini-Challenge Bonus | **15%** | Aggregate bonus points earned across all mid-event challenges |
+|  Innovation & Creativity | **25%** | Novelty of idea; originality of approach; creative use of technology |
+|  Technical Implementation | **25%** | Code quality, architecture, completeness, and working demo |
+|  Impact & Problem Fit | **20%** | Real-world applicability; how well it solves the stated problem |
+|  Presentation & Pitch | **15%** | Clarity of explanation; demo quality; ability to handle Q&A |
+|  Mini-Challenge Bonus | **15%** | Aggregate bonus points earned across all mid-event challenges |
 
 <br/>
 
@@ -299,10 +299,10 @@ Certificate of Merit + Merchandise
 
 | 🎖️ Special Recognition | What You Get |
 |:---|:---|
-| 🏅 **Track Winners** | Individual prizes per theme |
-| ⚡ **Challenge Champions** | Spot goodies + social shoutout |
-| 🎖️ **Leaderboard Topper** | Special prize at closing ceremony |
-| 🎉 **All Participants** | Goodies as per eligibility |
+|  **Track Winners** | Individual prizes per theme |
+|  **Challenge Champions** | Spot goodies + social shoutout |
+|  **Leaderboard Topper** | Special prize at closing ceremony |
+|  **All Participants** | Goodies as per eligibility |
 
 </div>
 
