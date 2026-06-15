@@ -30,7 +30,7 @@ It is a **two-stage battle of brains**, taking participants from an idea on pape
 
 <div align="center">
 
-### 🧠 Round 1 — Ideathon
+## Round 1 — Ideathon
 
 ![Online](https://img.shields.io/badge/Mode-Online-22c55e?style=flat-square&labelColor=1e1b4b)
 ![Free](https://img.shields.io/badge/Entry-Free%20for%20All-22c55e?style=flat-square&labelColor=1e1b4b)
@@ -47,7 +47,7 @@ The strongest ideas get shortlisted to qualify for the main stage at VIT Bhopal.
 
 <div align="center">
 
-### ⚡ Round 2 — Hackathon
+## Round 2 — Hackathon
 
 ![Offline](https://img.shields.io/badge/Mode-Offline-f59e0b?style=flat-square&labelColor=1e1b4b)
 ![Duration](https://img.shields.io/badge/Duration-36%20Hours-f59e0b?style=flat-square&labelColor=1e1b4b)
