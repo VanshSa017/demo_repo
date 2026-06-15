@@ -68,7 +68,7 @@ Present it live to judges and compete for the top spots.
 <br/>
 
 ---
-## ⏳ Event Timeline
+## Event Timeline
 
 ```mermaid
 timeline
