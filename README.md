@@ -233,15 +233,15 @@ No domain constraints, no seriousness required.
 
 <div align="center">
 
-![Innovation & Creativity](https://progress-bar.dev/25/?title=Innovation%20%26%20Creativity&width=500&color=7c3aed)
+![Innovation & Creativity](assets/innovation_creativity.svg)
 
-![Technical Implementation](https://progress-bar.dev/25/?title=Technical%20Implementation&width=500&color=6d28d9)
+![Technical Implementation](assets/technical_implementation.svg)
 
-![Impact & Problem Fit](https://progress-bar.dev/20/?title=Impact%20%26%20Problem%20Fit&width=500&color=4f46e5)
+![Impact & Problem Fit](assets/impact_problem_fit.svg)
 
-![Presentation & Pitch](https://progress-bar.dev/15/?title=Presentation%20%26%20Pitch&width=500&color=8b5cf6)
+![Presentation & Pitch](assets/presentation_pitch.svg)
 
-![Mini-Challenge Bonus](https://progress-bar.dev/15/?title=Mini-Challenge%20Bonus&width=500&color=a78bfa)
+![Mini-Challenge Bonus](assets/minichallenge_bonus.svg)
 
 *Judged by faculty mentors, industry guests & senior club alumni*
 
