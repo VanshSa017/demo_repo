@@ -113,16 +113,16 @@ timeline
 <div align="center">
 
 ```
-                        ╔══════════════════════════════════════════════════════════════════════╗
-                        ║                     CHOOSE YOUR BATTLEFIELD                          ║
-                        ╚══════════════════════════════════════════════════════════════════════╝
+                            ╔══════════════════════════════════════════════════════════════════════╗
+                            ║                     CHOOSE YOUR BATTLEFIELD                          ║
+                            ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## Hardware Project
+## 1) Hardware Project
 ![Track](https://img.shields.io/badge/Track-Embedded%20%7C%20IoT%20%7C%20Robotics-7c3aed?style=flat-square&labelColor=1e1b4b)
 
 Build a **physical prototype** that integrates hardware and software.
@@ -136,7 +136,7 @@ Build a **physical prototype** that integrates hardware and software.
 </td>
 <td width="50%" valign="top">
 
-## AI Agent
+## 2) AI Agent
 ![Track](https://img.shields.io/badge/Track-ML%20%7C%20LLMs%20%7C%20NLP-6d28d9?style=flat-square&labelColor=1e1b4b)
 
 Deploy an **intelligent agent** that reasons, plans, or decides.
@@ -152,7 +152,7 @@ Deploy an **intelligent agent** that reasons, plans, or decides.
 <tr>
 <td width="50%" valign="top">
 
-## Campus Problem Solver
+## 3) Campus Problem Solver
 ![Track](https://img.shields.io/badge/Track-EdTech%20%7C%20Campus%20Infra-4f46e5?style=flat-square&labelColor=1e1b4b)
 
 Fix a **real pain point at VIT Bhopal**.
@@ -166,7 +166,7 @@ Fix a **real pain point at VIT Bhopal**.
 </td>
 <td width="50%" valign="top">
 
-## Open Innovation
+## 4) Open Innovation
 ![Track](https://img.shields.io/badge/Track-No%20Restrictions-8b5cf6?style=flat-square&labelColor=1e1b4b)
 
 Absolutely **no constraints** — any domain qualifies.
@@ -182,7 +182,7 @@ Absolutely **no constraints** — any domain qualifies.
 <tr>
 <td colspan="2" align="center">
 
-### 😂 Make a Solution from a Meme
+## 5) Make a Solution from a Meme
 ![Track](https://img.shields.io/badge/Track-Guaranteed%20Chaos-a78bfa?style=flat-square&labelColor=1e1b4b)
 
 Connect the spirit of a **meme** to an actual working solution.
