@@ -1,14 +1,37 @@
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Summer%20of%20Code%20Fest%20'26&fontSize=52&fontColor=ffffff&fontAlignY=52&desc=GSoC%20Innovators'%20Club%20%E2%80%A2%20VIT%20Bhopal%20University&descAlignY=73&descSize=18&animation=twinkling" />
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=A78BFA&center=true&vCenter=true&width=1000&lines=🚀+Summer+of+Code+Fest+2026;⚡+36+Hours+of+Innovation;💡+Build+•+Compete+•+Innovate;🏆+National+Level+Hackathon;🌍+Contribute+The+Change." />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=80&section=header&text=⏱️%2036%20Hours&fontSize=28&fontColor=ffffff"/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=80&section=header&text=🎯%205%20Themes&fontSize=28&fontColor=ffffff"/>
+<img src="https://img.shields.io/badge/⏱️_36_HOURS-7C3AED?style=for-the-badge&labelColor=1E1B4B"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=80&section=header&text=📅%2023-24%20July&fontSize=28&fontColor=ffffff"/>
+<img src="https://img.shields.io/badge/🎯_5_THEMES-8B5CF6?style=for-the-badge&labelColor=1E1B4B"/>
+
+<img src="https://img.shields.io/badge/📅_23–24_JULY-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
+
+<img src="https://img.shields.io/badge/🏆_PRIZES_+_MERCH-A855F7?style=for-the-badge&labelColor=1E1B4B"/>
+
+<img src="https://img.shields.io/badge/🚀_ROUND_1_FREE-C084FC?style=for-the-badge&labelColor=1E1B4B"/>
+
+<br><br>
+
+<a href="https://hackindia.xyz">
+<img src="https://img.shields.io/badge/🚀_REGISTER_NOW-7C3AED?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/📖_RULEBOOK-8B5CF6?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💬_DISCORD-A855F7?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a9bc9c-1f9f-4a3d-8d54-fc5f9d4ecfa6.gif" width="100%">
 
 </div>
 ---
