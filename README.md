@@ -218,11 +218,11 @@ No domain constraints, no seriousness required.
 
 ### 🎁 Challenge Rewards Include:
 ```
- GSoC Innovators' Club Branded Merch (T-shirts · Stickers · Hoodies)
- Tech Accessories (USB Hubs · Cable Kits · Notebook Sets)
- Snack Vouchers & Café Credits Redeemable On Campus
- Certificate of Excellence for Challenge Winners
- Wildcard Entry to Club Workshops & Masterclasses
+ - GSoC Innovators' Club Branded Merch (T-shirts · Stickers · Hoodies)
+ - Tech Accessories (USB Hubs · Cable Kits · Notebook Sets)
+ - Snack Vouchers & Café Credits Redeemable On Campus
+ - Certificate of Excellence for Challenge Winners
+ - Wildcard Entry to Club Workshops & Masterclasses
 ```
 
 <br/>
