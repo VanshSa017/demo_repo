@@ -85,7 +85,7 @@ timeline
 
 <br/>
 
-## 🗓️ 36-Hour Schedule — Round 2
+## 36-Hour Schedule — Round 2
 
 <div align="center">
 
@@ -108,7 +108,7 @@ timeline
 
 ---
 
-## 🎯 Competition Themes
+## Competition Themes
 
 <div align="center">
 
@@ -200,7 +200,7 @@ No domain constraints, no seriousness required.
 
 ---
 
-## ⚡ Mid-Event Mini-Challenges
+## Mid-Event Mini-Challenges
 
 > Optional. High-risk, high-reward. Mini-challenges account for **10–20% of your total score.**
 
@@ -229,7 +229,7 @@ No domain constraints, no seriousness required.
 
 ---
 
-## 🏆 Judging Criteria
+## Judging Criteria
 
 <div align="center">
 
@@ -261,7 +261,7 @@ No domain constraints, no seriousness required.
 
 ---
 
-## 🥇 Prizes & Recognition
+## Prizes & Recognition
 
 <div align="center">
 
@@ -309,7 +309,7 @@ Certificate of Merit + Merchandise
 
 ---
 
-## 📋 Rules & Participation
+## Rules & Participation
 
 ### 👥 Team Structure
 ```
@@ -349,7 +349,7 @@ Each team must have a designated Team Lead.
 
 ---
 
-## 🚀 How to Register
+## How to Register
 
 ```
 Step 1  →  Head to Hack India portal
@@ -369,7 +369,7 @@ Step 5  →  Pay fee · Show up · BUILD SOMETHING LEGENDARY
 
 ---
 
-## 🌐 Connect With Us
+## Connect With Us
 
 <div align="center">
 
