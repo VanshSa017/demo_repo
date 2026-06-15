@@ -3,7 +3,7 @@
 
 <br/>
 
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=36+Hours.+Real+Problems.+Real+Solutions.;Build+%E2%86%92+Compete+%E2%86%92+Innovate;23+%26+24+July+%7C+VIT+Bhopal+University;Contribute+The+Change." alt="Typing SVG" /></p>
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=36+Hours.+Real+Problems.+Real+Solutions.;Build+%E2%86%92+Compete+%E2%86%92+Innovate;30+%26+31+July+%7C+VIT+Bhopal+University;Contribute+The+Change." alt="Typing SVG" /></p>
 
 ![Duration](https://img.shields.io/badge/⏱%20Duration-36%20Hours-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 ![Tracks](https://img.shields.io/badge/🎯%20Tracks-5%20Themes-6d28d9?style=for-the-badge&labelColor=1e1b4b)
