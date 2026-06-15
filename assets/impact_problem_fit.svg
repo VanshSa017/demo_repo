@@ -7,6 +7,6 @@
   </defs>
   <rect x="0" y="0" width="500" height="36" rx="10" ry="10" fill="#1e1b4b" stroke="#3b3370" stroke-width="1"/>
   <rect x="3" y="3" width="98.80" height="30" rx="7" ry="7" fill="url(#grad_impact_problem_fit)"/>
-  <text x="14" y="23" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#ffffff">Impact & Problem Fit</text>
+  <text x="14" y="23" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#ffffff">Impact &amp; Problem Fit</text>
   <text x="486" y="23" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">20%</text>
 </svg>
