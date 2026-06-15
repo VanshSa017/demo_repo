@@ -7,7 +7,7 @@
 
 ![Duration](https://img.shields.io/badge/⏱%20Duration-36%20Hours-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 ![Tracks](https://img.shields.io/badge/🎯%20Tracks-5%20Themes-6d28d9?style=for-the-badge&labelColor=1e1b4b)
-![Date](https://img.shields.io/badge/📅%20Date-23%20&%2024%20July-4f46e5?style=for-the-badge&labelColor=1e1b4b)
+![Date](https://img.shields.io/badge/📅%20Date-30%20&%2031%20July-4f46e5?style=for-the-badge&labelColor=1e1b4b)
 ![Register](https://img.shields.io/badge/🚀%20Register-Hack%20India-8b5cf6?style=for-the-badge&labelColor=1e1b4b)
 
 </div>
